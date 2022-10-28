@@ -1,11 +1,12 @@
 
 /**
- * Write a description of class number_guess here.
- *
- * @author (your name)
- * @version (a version number or a date)
+ * This is a game where one guesses a number while the program develops a random number
+ * When this number is correct the program tells the user the answer is correct
+ * If wrong the user continues to guess for a maximum of 5 trials after which,
+ * If still wrong the game terminates and outputs the trials
+ * @author (Mwangi Geofry Maina)
  */
-  import java.util.Random;
+  import java.util.Random; // java class that produces random numbers
 import java.util.Scanner;
 
 public class GuessingGame 
@@ -57,5 +58,5 @@ public class GuessingGame
 
                 
                  }
-}// instance variables - replace the example below with your own
+}
 }
