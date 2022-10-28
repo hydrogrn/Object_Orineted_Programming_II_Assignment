@@ -5,6 +5,7 @@
  * If wrong the user continues to guess for a maximum of 5 trials after which,
  * If still wrong the game terminates and outputs the trials
  * @author (Mwangi Geofry Maina)
+ * @registation_number(SCM21-0260/2021)
  */
   import java.util.Random; // java class that produces random numbers
 import java.util.Scanner;
